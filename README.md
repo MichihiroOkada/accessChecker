@@ -1,0 +1,2 @@
+# accessChecker
+ユーザのユニークアクセス数をチェックするcgi
